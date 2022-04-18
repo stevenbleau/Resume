@@ -1,38 +1,99 @@
-<!DOCTYPE html>
+body {
+  background-color: white;
+}
 
-<html>
-  
-  <head>
-      <link rel="stylesheet" href="style.css"/>
-  </head>
-  
-  
-  <body>
-    
-    <div>
-       <img src="https://images.squarespace-cdn.com/content/v1/5c4b94f925bf0244c043cbfd/1591148741800-OMVZZEGAINN4QWRGPJFH/SB+Logos+Flat+Transparent-35.png?format=1500w"
-         width="75"
-        />
-    </div>
-    
-    <div class="header">
-      <h1>STEVEN BLEAU DESIGN</h1>
-    </div>
-     
-    <div>
-      
-      <p>I'm a designer</p>
-        
-      <ol>
-        <li>Design</li>
-        <li>Development</li>
-      </ol>
+h1{
+  color: black;
+  font-size: 24;
+  font-family: Titillium, Helvetica, san-serif
+}
 
-     
-    
-    </div>  
-      
-  </body>
-  
-  
-</html>
+
+h2{
+  color: black;
+  font-size: 12px;
+  font-family: Titillium, Helvetica, san-serif
+}
+
+h3{
+  color: black;
+  font-size: 12px;
+  font-family: Titillium, Helvetica, san-serif
+}
+
+
+
+p{
+  color: black;
+  font-size: 24px;
+  font-family: Titillium, Helvetica, san-serif
+}
+
+
+
+li{
+  color: black;
+  font-size: 12px;
+  font-family: Titillium, Helvetica, san-serif
+}
+
+
+.grid-container1 {
+  display: grid;
+  grid-template-columns: 80px 420px 400px;
+  padding: 5px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0, .8);
+}
+.grid-item1 {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.8);
+  padding-top: 15px;
+  /*font-size: 18px;*/
+  text-align: left;
+}
+
+.grid-item2 {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.8);
+  padding-top: 15px;
+  /*font-size: 18px;*/
+  text-align: left;
+}
+
+.grid-item3 {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.8);
+  padding-left: 10px;
+  padding-top: 30px;
+  text-align: left;
+}
+
+
+
+
+
+.grid-container2 {
+  display: grid;
+  grid-template-columns: 80px 420px 400px;
+  padding: 5px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0, .8);
+}
+.grid-item1 {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.8);
+  padding-top: 15px;
+  /*font-size: 18px;*/
+  text-align: left;
+}
+
+.grid-item2 {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.8);
+  padding-top: 15px;
+  /*font-size: 18px;*/
+  text-align: left;
+}
+
+
+
+
+
+
+
