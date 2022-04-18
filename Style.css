@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+  
+  <head>
+      <link rel="stylesheet" href="style.css"/>
+  </head>
+  
+  
+  <body>
+    
+    <div>
+       <img src="https://images.squarespace-cdn.com/content/v1/5c4b94f925bf0244c043cbfd/1591148741800-OMVZZEGAINN4QWRGPJFH/SB+Logos+Flat+Transparent-35.png?format=1500w"
+         width="75"
+        />
+    </div>
+    
+    <div class="header">
+      <h1>STEVEN BLEAU DESIGN</h1>
+    </div>
+     
+    <div>
+      
+      <p>I'm a designer</p>
+        
+      <ol>
+        <li>Design</li>
+        <li>Development</li>
+      </ol>
+
+     
+    
+    </div>  
+      
+  </body>
+  
+  
+</html>
